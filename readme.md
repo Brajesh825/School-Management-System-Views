@@ -24,3 +24,5 @@ Tablet View : In Process
 ---
 
 Demo
+
+![alt text](./Demo/School%20Management%20System%20(17)_page-0001.jpg?raw=true)
